@@ -1,5 +1,5 @@
 # Project Requirements
-The Data Analyst team has received a request from the company to analyze user behaviors of the company website, specifically for the year 2017. The objective is to gather insights and evaluate the website performance during that specific period, potentially identifying trends, patterns, and areas of improvement.
+This project aims to analyze customer behavior on an e-commerce website in 2017, providing valuable insights for improving business strategies and enhancing user experience. By analyzing various data points, such as visits, pageviews, transactions, and revenue, this project sheds light on customers' interactions with the website, their purchasing patterns, and engagement levels.
 
 ### Requirement specification:
 ![Alt text](requirements.jpg)
